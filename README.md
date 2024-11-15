@@ -2,6 +2,7 @@
 Automation of routine work processes
 
 1. Automation of company sorting
+file checkoexcel.py
 
 Task:
 Write a program on python that will consistently take the TIN value from a given column in Excel file, enter it into the search bar on checko.ru and copy the revenue value in text format into the same Excel file into the specified column.
